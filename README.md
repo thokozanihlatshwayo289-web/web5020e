@@ -31,7 +31,7 @@ Week 6: Testing and final submission
 
 ## Sitemap
 
-![Website Sitemap](![](![alt text](image-1.png))) <br> (The one here is only an example, include your own site map)
+![Website Sitemap](![](![alt text](image-1.png))) 
 
 ## References
 ## References
