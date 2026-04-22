@@ -34,7 +34,6 @@ Week 6: Testing and final submission
 ![Website Sitemap](![](![alt text](image-1.png))) 
 
 ## References
-## References
 
 Checkers. (2026). Checkers Official Website. Available at: https://www.checkers.co.za/
 
